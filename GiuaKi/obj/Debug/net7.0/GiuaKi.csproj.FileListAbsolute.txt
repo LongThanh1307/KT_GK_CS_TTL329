@@ -1,0 +1,15 @@
+C:\Đại Học\C#\GiuaKi\GiuaKi\GiuaKi\bin\Debug\net7.0\GiuaKi.exe
+C:\Đại Học\C#\GiuaKi\GiuaKi\GiuaKi\bin\Debug\net7.0\GiuaKi.deps.json
+C:\Đại Học\C#\GiuaKi\GiuaKi\GiuaKi\bin\Debug\net7.0\GiuaKi.runtimeconfig.json
+C:\Đại Học\C#\GiuaKi\GiuaKi\GiuaKi\bin\Debug\net7.0\GiuaKi.dll
+C:\Đại Học\C#\GiuaKi\GiuaKi\GiuaKi\bin\Debug\net7.0\GiuaKi.pdb
+C:\Đại Học\C#\GiuaKi\GiuaKi\GiuaKi\obj\Debug\net7.0\GiuaKi.csproj.AssemblyReference.cache
+C:\Đại Học\C#\GiuaKi\GiuaKi\GiuaKi\obj\Debug\net7.0\GiuaKi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Đại Học\C#\GiuaKi\GiuaKi\GiuaKi\obj\Debug\net7.0\GiuaKi.AssemblyInfoInputs.cache
+C:\Đại Học\C#\GiuaKi\GiuaKi\GiuaKi\obj\Debug\net7.0\GiuaKi.AssemblyInfo.cs
+C:\Đại Học\C#\GiuaKi\GiuaKi\GiuaKi\obj\Debug\net7.0\GiuaKi.csproj.CoreCompileInputs.cache
+C:\Đại Học\C#\GiuaKi\GiuaKi\GiuaKi\obj\Debug\net7.0\GiuaKi.dll
+C:\Đại Học\C#\GiuaKi\GiuaKi\GiuaKi\obj\Debug\net7.0\refint\GiuaKi.dll
+C:\Đại Học\C#\GiuaKi\GiuaKi\GiuaKi\obj\Debug\net7.0\GiuaKi.pdb
+C:\Đại Học\C#\GiuaKi\GiuaKi\GiuaKi\obj\Debug\net7.0\GiuaKi.genruntimeconfig.cache
+C:\Đại Học\C#\GiuaKi\GiuaKi\GiuaKi\obj\Debug\net7.0\ref\GiuaKi.dll
